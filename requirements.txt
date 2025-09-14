@@ -1,0 +1,8 @@
+# Data Science and Notebook dependencies
+pandas
+numpy
+jupyter
+notebook
+matplotlib
+seaborn
+scikit-learn
